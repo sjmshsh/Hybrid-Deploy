@@ -1,2 +1,2 @@
 # Hybrid-Deploy
-k8s离线混部
+k8s混合部署
